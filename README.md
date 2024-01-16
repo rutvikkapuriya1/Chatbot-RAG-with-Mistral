@@ -27,4 +27,5 @@ The primary goal of this project is to create a chatbot capable of answering use
 6. **Document Loading and Indexing**: Successfully loaded and indexed data from 5 PDFs, each around 300 pages, using llama-index.
 7. **Testing and Results**: Validated the solution's performance with real queries, achieving accurate responses from each extensive PDF.
 
+![Output from all pdfs](Results_From_All_PDFS.png)
 

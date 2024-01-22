@@ -1,4 +1,4 @@
-# Chatbot-RAG-with-llama
+# Chatbot-RAG-with-Mistral
 
 ## Overview
 Goal :
